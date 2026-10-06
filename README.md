@@ -1,8 +1,8 @@
-# 🪙 18K Gold Price Prediction with AI
+# 🪙 24K Gold Price Prediction with AI
 
 > 🤖 **AI-based technical analysis and price forecasting for 18K gold using PyTorch & Bidirectional GRU**
 
-مدلی برای **تحلیل تکنیکال و پیش‌بینی قیمت هر گرم طلای ۱۸ عیار** با استفاده از یادگیری عمیق و پردازش سری‌های زمانی.
+مدلی برای **تحلیل تکنیکال و پیش‌بینی قیمت هر گرم طلای 24 عیار** با استفاده از یادگیری عمیق و پردازش سری‌های زمانی.
 
 💰 **واحد قیمت:** ریال ایران (IRR)
 
